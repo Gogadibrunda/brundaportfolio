@@ -1,0 +1,6 @@
+{
+  "name": "G. Brunda Portfolio",
+  "description": "Premium Future AI Engineer portfolio website for G. Brunda, built with React, Three.js, and Framer Motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
